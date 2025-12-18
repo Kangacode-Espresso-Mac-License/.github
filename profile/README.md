@@ -3,7 +3,7 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/30094/m/espresso-logo.png?v=1655627851" width="200" alt="Kangacode Espresso macOS application icon"><br>
+ <img src="https://media.imgcdn.org/repo/2023/03/kangacode-espresso/espresso-for-macos-logo.png" width="200" alt="Kangacode Espresso macOS application icon"><br>
  <a href="https://app-quick-app.github.io/.github/Kangacode%20Espresso">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Kangacode Espresso macOS page">
  </a><br><br>
